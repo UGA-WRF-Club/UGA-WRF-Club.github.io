@@ -1,4 +1,4 @@
-WRF Club Code: [https://github.com/UGA-WRF-Club](Github)
+WRF Club Github Org / List of Repos: [https://github.com/UGA-WRF-Club](Github)
 
 MPAS Site: [https://uga-wrf-club.github.io/ugampas-web/](https://uga-wrf-club.github.io/ugampas-web/)
 
